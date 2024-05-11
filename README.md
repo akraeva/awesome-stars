@@ -5,69 +5,103 @@
 
 ## Contents
 
-- [C#](#c#)
-- [CSS](#css)
-- [HTML](#html)
-- [JavaScript](#javascript)
-- [Others](#others)
-- [Python](#python)
-- [Ruby](#ruby)
+- [awesome](#awesome)
+- [awesome-list](#awesome-list)
+- [computer-science](#computer-science)
+- [design](#design)
+- [font](#font)
+- [hacktoberfest](#hacktoberfest)
+- [iot](#iot)
+- [open-source](#open-source)
+- [others](#others)
+- [python](#python)
+- [ruby](#ruby)
 
-## C# # 
+## awesome 
 
-- [Yandex-Practicum/algorithms-theory-examples](https://github.com/Yandex-Practicum/algorithms-theory-examples) - Примеры кода на разных языках для курса Алгоритмы для разработчиков.
-
-## CSS 
-
+- [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
+- [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
+- [yuhenobi/awesome-product-manager](https://github.com/yuhenobi/awesome-product-manager) - A curated list of awesome resources for product managers to learn and grow.
+- [bjpcjp/awesome-product-management](https://github.com/bjpcjp/awesome-product-management) - A list of product management resources, curated from 10 years of bookmarks.
 - [dend/awesome-product-management](https://github.com/dend/awesome-product-management) - 🚀 A curated list of awesome resources for product/program managers to learn and grow.
+- [ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
+- [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) - A curated list of delightful productivity resources.
+- [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
 
-## HTML 
+## awesome-list 
 
-- [akraeva/hexlet-html](https://github.com/akraeva/hexlet-html) - learning html & css
+- [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
+- [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
+- [ronakganatra/awesome-developer-marketing](https://github.com/ronakganatra/awesome-developer-marketing) - A living document of hand-picked resources for marketers working on dev-centric products.
+- [yuhenobi/awesome-product-manager](https://github.com/yuhenobi/awesome-product-manager) - A curated list of awesome resources for product managers to learn and grow.
+- [bjpcjp/awesome-product-management](https://github.com/bjpcjp/awesome-product-management) - A list of product management resources, curated from 10 years of bookmarks.
+- [dend/awesome-product-management](https://github.com/dend/awesome-product-management) - 🚀 A curated list of awesome resources for product/program managers to learn and grow.
+- [ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
+- [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) - A curated list of delightful productivity resources.
+- [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
+- [hkalant/awesome-edtech-tools](https://github.com/hkalant/awesome-edtech-tools) - An ongoing curated list with awesome tools and resources for instructional designers.
+- [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
 
-## JavaScript 
+## computer-science 
 
-- [getmentor/getmentor.dev](https://github.com/getmentor/getmentor.dev) - Getmentor.dev rewritten on NextJS
+- [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
+
+## design 
+
+- [ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
+
+## font 
+
+- [ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
+
+## hacktoberfest 
+
+- [hexlet-basics/exercises-ruby](https://github.com/hexlet-basics/exercises-ruby) - 
 - [hexlet-basics/exercises-javascript](https://github.com/hexlet-basics/exercises-javascript) - Free Javascript courses
-- [akraeva/exercises-javascript](https://github.com/akraeva/exercises-javascript) - JavaScript
-- [akraeva/hexlet-js](https://github.com/akraeva/hexlet-js) - my code-basics JS problem solving
+- [hexlet-basics/hexlet-basics](https://github.com/hexlet-basics/hexlet-basics) - Interactive Programming Courses
 
-## Others 
+## iot 
+
+- [ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
+
+## open-source 
+
+- [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
+
+## others 
 
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [OpenMindClub/awesome-scholarly-productivity](https://github.com/OpenMindClub/awesome-scholarly-productivity) - 
-- [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
-- [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
 - [shahedbd/awesome-project-management](https://github.com/shahedbd/awesome-project-management) - Awesome lists about Project Management interesting and useful topics.
-- [ronakganatra/awesome-developer-marketing](https://github.com/ronakganatra/awesome-developer-marketing) - A living document of hand-picked resources for marketers working on dev-centric products.
 - [antonarhipov/awesome-apm](https://github.com/antonarhipov/awesome-apm) - A list of awesome APM products (commercial and OSS)
-- [yuhenobi/awesome-product-manager](https://github.com/yuhenobi/awesome-product-manager) - A curated list of awesome resources for product managers to learn and grow.
-- [bjpcjp/awesome-product-management](https://github.com/bjpcjp/awesome-product-management) - A list of product management resources, curated from 10 years of bookmarks.
 - [dehenne/awesome-visibility](https://github.com/dehenne/awesome-visibility) - Curated list to achieve visibility for your product
 - [hugo53/awesome-ProductManager](https://github.com/hugo53/awesome-ProductManager) - A curated list of awesome book, tool and other resource for Product Managers. Inspired by 'awesome-' repos.
-- [ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
-- [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) - A curated list of delightful productivity resources.
-- [hkalant/awesome-edtech-tools](https://github.com/hkalant/awesome-edtech-tools) - An ongoing curated list with awesome tools and resources for instructional designers.
-- [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
+- [Yandex-Practicum/algorithms-theory-examples](https://github.com/Yandex-Practicum/algorithms-theory-examples) - Примеры кода на разных языках для курса Алгоритмы для разработчиков.
+- [getmentor/getmentor.dev](https://github.com/getmentor/getmentor.dev) - Getmentor.dev rewritten on NextJS
 - [akraeva/awesome-stars](https://github.com/akraeva/awesome-stars) - A curated list of my GitHub stars!
 - [akraeva/akraeva](https://github.com/akraeva/akraeva) - Anna Kraeva Profile
-
-## Python 
-
-- [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [akraeva/hexlet-html](https://github.com/akraeva/hexlet-html) - learning html & css
+- [akraeva/exercises-ruby](https://github.com/akraeva/exercises-ruby) - 
+- [akraeva/hexler-ruby](https://github.com/akraeva/hexler-ruby) - my code-basics Ruby problem solving
+- [akraeva/exercises-javascript](https://github.com/akraeva/exercises-javascript) - JavaScript
+- [akraeva/hexlet-js](https://github.com/akraeva/hexlet-js) - my code-basics JS problem solving
 - [akraeva/itcode_internship](https://github.com/akraeva/itcode_internship) - IT CODE backend course
 - [akraeva/python_stepik](https://github.com/akraeva/python_stepik) - 
 - [akraeva/python_stepik_practice](https://github.com/akraeva/python_stepik_practice) - 
 - [akraeva/stepik_algorithms](https://github.com/akraeva/stepik_algorithms) - Free cours on stepik.org  ( https://stepik.org/course/1547/syllabus )
 - [akraeva/leetcode](https://github.com/akraeva/leetcode) - 
 
-## Ruby 
+## python 
 
+- [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+
+## ruby 
+
+- [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
 - [hexlet-basics/exercises-ruby](https://github.com/hexlet-basics/exercises-ruby) - 
-- [hexlet-basics/hexlet-basics](https://github.com/hexlet-basics/hexlet-basics) - Interactive Programming Courses
-- [akraeva/exercises-ruby](https://github.com/akraeva/exercises-ruby) - 
-- [akraeva/hexler-ruby](https://github.com/akraeva/hexler-ruby) - my code-basics Ruby problem solving
 
 
 ## License
