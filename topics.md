@@ -7,18 +7,36 @@
 
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
+- [blockchain](#blockchain)
 - [computer-science](#computer-science)
 - [design](#design)
+- [devops](#devops)
+- [discord](#discord)
+- [education](#education)
 - [font](#font)
+- [gamedev](#gamedev)
 - [hacktoberfest](#hacktoberfest)
 - [iot](#iot)
+- [learning](#learning)
 - [open-source](#open-source)
 - [others](#others)
+- [programming](#programming)
+- [project-management](#project-management)
 - [python](#python)
+- [react](#react)
 - [ruby](#ruby)
+- [security](#security)
+- [solidity](#solidity)
+- [svelte](#svelte)
+- [twitter](#twitter)
+- [web](#web)
+- [website](#website)
 
 ## awesome 
 
+- [ElizaLo/Product-Management-and-Leadership](https://github.com/ElizaLo/Product-Management-and-Leadership) - Product Management and Leadership Guide
+- [rajavijayach/awesome-product-management](https://github.com/rajavijayach/awesome-product-management) - A collection of awesome things regarding Product Management
+- [unchase/awesome-russian-it](https://github.com/unchase/awesome-russian-it) - :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ - https://awesomeit.ru
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
 - [yuhenobi/awesome-product-manager](https://github.com/yuhenobi/awesome-product-manager) - A curated list of awesome resources for product managers to learn and grow.
@@ -32,6 +50,9 @@
 
 ## awesome-list 
 
+- [ElizaLo/Product-Management-and-Leadership](https://github.com/ElizaLo/Product-Management-and-Leadership) - Product Management and Leadership Guide
+- [rajavijayach/awesome-product-management](https://github.com/rajavijayach/awesome-product-management) - A collection of awesome things regarding Product Management
+- [unchase/awesome-russian-it](https://github.com/unchase/awesome-russian-it) - :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ - https://awesomeit.ru
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
 - [ronakganatra/awesome-developer-marketing](https://github.com/ronakganatra/awesome-developer-marketing) - A living document of hand-picked resources for marketers working on dev-centric products.
@@ -44,20 +65,51 @@
 - [hkalant/awesome-edtech-tools](https://github.com/hkalant/awesome-edtech-tools) - An ongoing curated list with awesome tools and resources for instructional designers.
 - [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
 
+## blockchain 
+
+- [OpenSourceUniversity/platform](https://github.com/OpenSourceUniversity/platform) - Decentralized Education 4.0 platform
+
 ## computer-science 
 
+- [shikha-16/Women-in-Technology](https://github.com/shikha-16/Women-in-Technology) - A collection of resources for women in tech, consisting of - courses, learning guides, amazing sites and repos, blogs, programs and events. scholarships, etc.
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 
 ## design 
 
+- [unchase/awesome-russian-it](https://github.com/unchase/awesome-russian-it) - :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ - https://awesomeit.ru
 - [ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
+
+## devops 
+
+- [avevlad/russia-it-podcast](https://github.com/avevlad/russia-it-podcast) - Список русскоязычных подкастов на тему информационных технологий
+
+## discord 
+
+- [shikha-16/Women-in-Technology](https://github.com/shikha-16/Women-in-Technology) - A collection of resources for women in tech, consisting of - courses, learning guides, amazing sites and repos, blogs, programs and events. scholarships, etc.
+
+## education 
+
+- [OpenSourceUniversity/platform](https://github.com/OpenSourceUniversity/platform) - Decentralized Education 4.0 platform
+- [kalvilabs/kalvi](https://github.com/kalvilabs/kalvi) - 📚🏫🚀 Open Source Infrastructure for Online Education. Easily launch educational platforms, craft online courses, sell mock tests, handle live classes, and foster communities - all without building from
+- [studentinsights/studentinsights](https://github.com/studentinsights/studentinsights) - We work within school communities to make open, secure, student-centered data systems.  Say hello@studentinsights.org!
+- [elmsln/elmsln](https://github.com/elmsln/elmsln) - ELMS - create and sustain innovation in education. Dream with us!
+- [edrys-org/edrys](https://github.com/edrys-org/edrys) - Edrys is an open and modular remote teaching platform (and the first live LMS)
+- [rotimi-best/classroomio](https://github.com/rotimi-best/classroomio) - Launch your Online Bootcamp in Minutes. The Open Source Alternative to Udemy/Coursera.
+- [learningequality/kolibri](https://github.com/learningequality/kolibri) - Kolibri Learning Platform: the offline app for universal education
 
 ## font 
 
 - [ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
 
+## gamedev 
+
+- [unchase/awesome-russian-it](https://github.com/unchase/awesome-russian-it) - :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ - https://awesomeit.ru
+
 ## hacktoberfest 
 
+- [tlbootcamp/tlroadmap](https://github.com/tlbootcamp/tlroadmap) - Тимлид – это ❄️, потому что в каждой компании он уникален и неповторим.
+- [Kaustubh-Natuskar/moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM) - This repository contains opportunities for you to apply to more than 400 product base companies(NOT JUST FAANGM) & good start-ups.
+- [shikha-16/Women-in-Technology](https://github.com/shikha-16/Women-in-Technology) - A collection of resources for women in tech, consisting of - courses, learning guides, amazing sites and repos, blogs, programs and events. scholarships, etc.
 - [hexlet-basics/exercises-ruby](https://github.com/hexlet-basics/exercises-ruby) - 
 - [hexlet-basics/exercises-javascript](https://github.com/hexlet-basics/exercises-javascript) - Free Javascript courses
 - [hexlet-basics/hexlet-basics](https://github.com/hexlet-basics/hexlet-basics) - Interactive Programming Courses
@@ -66,12 +118,24 @@
 
 - [ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
 
+## learning 
+
+- [rotimi-best/classroomio](https://github.com/rotimi-best/classroomio) - Launch your Online Bootcamp in Minutes. The Open Source Alternative to Udemy/Coursera.
+
 ## open-source 
 
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 
 ## others 
 
+- [avito-tech/playbook](https://github.com/avito-tech/playbook) - AvitoTech team playbook
+- [ProductHired/open-product-management](https://github.com/ProductHired/open-product-management) - A curated list of product management advice for technical people.
+- [scottcolfer/product-management-handbook](https://github.com/scottcolfer/product-management-handbook) - A white label product management handbook for government digital services
+- [espetey/pminterviewquestion](https://github.com/espetey/pminterviewquestion) - A web app to generate a practice Product Manager interview.
+- [alphagov/Product-Managers-Learn-By-Doing](https://github.com/alphagov/Product-Managers-Learn-By-Doing) - Things you should know how to do, to be a successful Product Manager
+- [msmanek/getting-a-gig-pm-edition](https://github.com/msmanek/getting-a-gig-pm-edition) - Guide for getting a gig in product management as a tech major.
+- [orbit-love/orbit-model](https://github.com/orbit-love/orbit-model) - A framework for building high gravity communities 🪐
+- [fempire/women-tech-speakers-organizers](https://github.com/fempire/women-tech-speakers-organizers) - A list of women tech speakers & organizers. Add yourself or others by submitting a PR! PS if you do add someone, make sure to tell them! :) #fempire
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [OpenMindClub/awesome-scholarly-productivity](https://github.com/OpenMindClub/awesome-scholarly-productivity) - 
 - [shahedbd/awesome-project-management](https://github.com/shahedbd/awesome-project-management) - Awesome lists about Project Management interesting and useful topics.
@@ -93,15 +157,51 @@
 - [akraeva/stepik_algorithms](https://github.com/akraeva/stepik_algorithms) - Free cours on stepik.org  ( https://stepik.org/course/1547/syllabus )
 - [akraeva/leetcode](https://github.com/akraeva/leetcode) - 
 
+## programming 
+
+- [unchase/awesome-russian-it](https://github.com/unchase/awesome-russian-it) - :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ - https://awesomeit.ru
+
+## project-management 
+
+- [yegor256/pmba](https://github.com/yegor256/pmba) - Project Management Beyond Agile (Lecture Notes), course for BSc students in Innopolis University, 2023
+
 ## python 
 
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 
+## react 
+
+- [OpenSourceUniversity/platform](https://github.com/OpenSourceUniversity/platform) - Decentralized Education 4.0 platform
+
 ## ruby 
 
 - [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
 - [hexlet-basics/exercises-ruby](https://github.com/hexlet-basics/exercises-ruby) - 
+
+## security 
+
+- [unchase/awesome-russian-it](https://github.com/unchase/awesome-russian-it) - :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ - https://awesomeit.ru
+
+## solidity 
+
+- [OpenSourceUniversity/platform](https://github.com/OpenSourceUniversity/platform) - Decentralized Education 4.0 platform
+
+## svelte 
+
+- [rotimi-best/classroomio](https://github.com/rotimi-best/classroomio) - Launch your Online Bootcamp in Minutes. The Open Source Alternative to Udemy/Coursera.
+
+## twitter 
+
+- [avevlad/russia-it-podcast](https://github.com/avevlad/russia-it-podcast) - Список русскоязычных подкастов на тему информационных технологий
+
+## web 
+
+- [rotimi-best/classroomio](https://github.com/rotimi-best/classroomio) - Launch your Online Bootcamp in Minutes. The Open Source Alternative to Udemy/Coursera.
+
+## website 
+
+- [shikha-16/Women-in-Technology](https://github.com/shikha-16/Women-in-Technology) - A collection of resources for women in tech, consisting of - courses, learning guides, amazing sites and repos, blogs, programs and events. scholarships, etc.
 
 
 ## License
