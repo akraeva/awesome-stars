@@ -10,8 +10,12 @@
 - [HTML](#html)
 - [JavaScript](#javascript)
 - [Others](#others)
+- [PHP](#php)
 - [Python](#python)
 - [Ruby](#ruby)
+- [TeX](#tex)
+- [TypeScript](#typescript)
+- [Vue](#vue)
 
 ## C# # 
 
@@ -19,14 +23,21 @@
 
 ## CSS 
 
+- [learningequality/kolibri](https://github.com/learningequality/kolibri) - Kolibri Learning Platform: the offline app for universal education
 - [dend/awesome-product-management](https://github.com/dend/awesome-product-management) - 🚀 A curated list of awesome resources for product/program managers to learn and grow.
 
 ## HTML 
 
+- [unchase/awesome-russian-it](https://github.com/unchase/awesome-russian-it) - :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ - https://awesomeit.ru
 - [akraeva/hexlet-html](https://github.com/akraeva/hexlet-html) - learning html & css
 
 ## JavaScript 
 
+- [espetey/pminterviewquestion](https://github.com/espetey/pminterviewquestion) - A web app to generate a practice Product Manager interview.
+- [orbit-love/orbit-model](https://github.com/orbit-love/orbit-model) - A framework for building high gravity communities 🪐
+- [OpenSourceUniversity/platform](https://github.com/OpenSourceUniversity/platform) - Decentralized Education 4.0 platform
+- [studentinsights/studentinsights](https://github.com/studentinsights/studentinsights) - We work within school communities to make open, secure, student-centered data systems.  Say hello@studentinsights.org!
+- [shikha-16/Women-in-Technology](https://github.com/shikha-16/Women-in-Technology) - A collection of resources for women in tech, consisting of - courses, learning guides, amazing sites and repos, blogs, programs and events. scholarships, etc.
 - [getmentor/getmentor.dev](https://github.com/getmentor/getmentor.dev) - Getmentor.dev rewritten on NextJS
 - [hexlet-basics/exercises-javascript](https://github.com/hexlet-basics/exercises-javascript) - Free Javascript courses
 - [akraeva/exercises-javascript](https://github.com/akraeva/exercises-javascript) - JavaScript
@@ -34,6 +45,16 @@
 
 ## Others 
 
+- [avito-tech/playbook](https://github.com/avito-tech/playbook) - AvitoTech team playbook
+- [ProductHired/open-product-management](https://github.com/ProductHired/open-product-management) - A curated list of product management advice for technical people.
+- [ElizaLo/Product-Management-and-Leadership](https://github.com/ElizaLo/Product-Management-and-Leadership) - Product Management and Leadership Guide
+- [scottcolfer/product-management-handbook](https://github.com/scottcolfer/product-management-handbook) - A white label product management handbook for government digital services
+- [rajavijayach/awesome-product-management](https://github.com/rajavijayach/awesome-product-management) - A collection of awesome things regarding Product Management
+- [alphagov/Product-Managers-Learn-By-Doing](https://github.com/alphagov/Product-Managers-Learn-By-Doing) - Things you should know how to do, to be a successful Product Manager
+- [msmanek/getting-a-gig-pm-edition](https://github.com/msmanek/getting-a-gig-pm-edition) - Guide for getting a gig in product management as a tech major.
+- [avevlad/russia-it-podcast](https://github.com/avevlad/russia-it-podcast) - Список русскоязычных подкастов на тему информационных технологий
+- [Kaustubh-Natuskar/moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM) - This repository contains opportunities for you to apply to more than 400 product base companies(NOT JUST FAANGM) & good start-ups.
+- [fempire/women-tech-speakers-organizers](https://github.com/fempire/women-tech-speakers-organizers) - A list of women tech speakers & organizers. Add yourself or others by submitting a PR! PS if you do add someone, make sure to tell them! :) #fempire
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [OpenMindClub/awesome-scholarly-productivity](https://github.com/OpenMindClub/awesome-scholarly-productivity) - 
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
@@ -52,6 +73,10 @@
 - [akraeva/awesome-stars](https://github.com/akraeva/awesome-stars) - A curated list of my GitHub stars!
 - [akraeva/akraeva](https://github.com/akraeva/akraeva) - Anna Kraeva Profile
 
+## PHP 
+
+- [elmsln/elmsln](https://github.com/elmsln/elmsln) - ELMS - create and sustain innovation in education. Dream with us!
+
 ## Python 
 
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
@@ -68,6 +93,20 @@
 - [hexlet-basics/hexlet-basics](https://github.com/hexlet-basics/hexlet-basics) - Interactive Programming Courses
 - [akraeva/exercises-ruby](https://github.com/akraeva/exercises-ruby) - 
 - [akraeva/hexler-ruby](https://github.com/akraeva/hexler-ruby) - my code-basics Ruby problem solving
+
+## TeX 
+
+- [yegor256/pmba](https://github.com/yegor256/pmba) - Project Management Beyond Agile (Lecture Notes), course for BSc students in Innopolis University, 2023
+
+## TypeScript 
+
+- [kalvilabs/kalvi](https://github.com/kalvilabs/kalvi) - 📚🏫🚀 Open Source Infrastructure for Online Education. Easily launch educational platforms, craft online courses, sell mock tests, handle live classes, and foster communities - all without building from
+- [rotimi-best/classroomio](https://github.com/rotimi-best/classroomio) - Launch your Online Bootcamp in Minutes. The Open Source Alternative to Udemy/Coursera.
+
+## Vue 
+
+- [tlbootcamp/tlroadmap](https://github.com/tlbootcamp/tlroadmap) - Тимлид – это ❄️, потому что в каждой компании он уникален и неповторим.
+- [edrys-org/edrys](https://github.com/edrys-org/edrys) - Edrys is an open and modular remote teaching platform (and the first live LMS)
 
 
 ## License
