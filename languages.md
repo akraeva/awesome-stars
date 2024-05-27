@@ -102,7 +102,7 @@
 ## TypeScript 
 
 - [kalvilabs/kalvi](https://github.com/kalvilabs/kalvi) - 📚🏫🚀 Open Source Infrastructure for Online Education. Easily launch educational platforms, craft online courses, sell mock tests, handle live classes, and foster communities - all without building from
-- [rotimi-best/classroomio](https://github.com/rotimi-best/classroomio) - Launch your Online Bootcamp in Minutes. The Open Source Alternative to Udemy/Coursera.
+- [rotimi-best/classroomio](https://github.com/rotimi-best/classroomio) - Launch your Online Bootcamp in Minutes. Create your Own Udemy/Coursera In Minutes
 
 ## Vue 
 
