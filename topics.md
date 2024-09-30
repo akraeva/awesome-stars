@@ -94,7 +94,7 @@
 - [studentinsights/studentinsights](https://github.com/studentinsights/studentinsights) - We work within school communities to make open, secure, student-centered data systems.  Say hello@studentinsights.org!
 - [elmsln/elmsln](https://github.com/elmsln/elmsln) - ELMS - create and sustain innovation in education. Dream with us!
 - [edrys-org/edrys](https://github.com/edrys-org/edrys) - Edrys is an open and modular remote teaching platform (and the first live LMS)
-- [rotimi-best/classroomio](https://github.com/rotimi-best/classroomio) - The Open Source Learning Management System for Companies
+- [rotimi-best/classroomio](https://github.com/rotimi-best/classroomio) - The Open Source Learning Management System for Companies. An alternative to Thinkific, Teachable, Intellum, Podia, Kajabi etc.
 - [learningequality/kolibri](https://github.com/learningequality/kolibri) - Kolibri Learning Platform: the offline app for universal education
 
 ## font 
@@ -121,7 +121,7 @@
 
 ## learning 
 
-- [rotimi-best/classroomio](https://github.com/rotimi-best/classroomio) - The Open Source Learning Management System for Companies
+- [rotimi-best/classroomio](https://github.com/rotimi-best/classroomio) - The Open Source Learning Management System for Companies. An alternative to Thinkific, Teachable, Intellum, Podia, Kajabi etc.
 
 ## open-source 
 
@@ -190,7 +190,7 @@
 
 ## svelte 
 
-- [rotimi-best/classroomio](https://github.com/rotimi-best/classroomio) - The Open Source Learning Management System for Companies
+- [rotimi-best/classroomio](https://github.com/rotimi-best/classroomio) - The Open Source Learning Management System for Companies. An alternative to Thinkific, Teachable, Intellum, Podia, Kajabi etc.
 
 ## twitter 
 
@@ -198,7 +198,7 @@
 
 ## web 
 
-- [rotimi-best/classroomio](https://github.com/rotimi-best/classroomio) - The Open Source Learning Management System for Companies
+- [rotimi-best/classroomio](https://github.com/rotimi-best/classroomio) - The Open Source Learning Management System for Companies. An alternative to Thinkific, Teachable, Intellum, Podia, Kajabi etc.
 
 ## website 
 
