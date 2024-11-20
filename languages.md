@@ -102,7 +102,7 @@
 ## TypeScript 
 
 - [kalvilabs/kalvi](https://github.com/kalvilabs/kalvi) - 📚🏫🚀 Open Source Infrastructure for Online Education. Easily launch educational platforms, craft online courses, sell mock tests, handle live classes, and foster communities - all without building from
-- [classroomio/classroomio](https://github.com/classroomio/classroomio) - The Open Source Education Platform. We are building the Shopify of Education but Open Source
+- [classroomio/classroomio](https://github.com/classroomio/classroomio) - The Open Source Education Platform. An alternative to Thinkific, Teachable, Intellum, EdX, Kajabi etc.
 
 ## Vue 
 
