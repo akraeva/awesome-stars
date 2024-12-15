@@ -13,6 +13,7 @@
 - [PHP](#php)
 - [Python](#python)
 - [Ruby](#ruby)
+- [Svelte](#svelte)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vue](#vue)
@@ -95,6 +96,10 @@
 - [akraeva/exercises-ruby](https://github.com/akraeva/exercises-ruby) - 
 - [akraeva/hexler-ruby](https://github.com/akraeva/hexler-ruby) - my code-basics Ruby problem solving
 
+## Svelte 
+
+- [classroomio/classroomio](https://github.com/classroomio/classroomio) - The Open Source Education Platform. A Simple and Beautiful Alternative to Moodle LMS, EdX, Thinkific and Teachable
+
 ## TeX 
 
 - [yegor256/pmba](https://github.com/yegor256/pmba) - Project Management Beyond Agile (Lecture Notes), course for BSc students in Innopolis University, 2023
@@ -102,7 +107,6 @@
 ## TypeScript 
 
 - [kalvilabs/kalvi](https://github.com/kalvilabs/kalvi) - 📚🏫🚀 Open Source Infrastructure for Online Education. Easily launch educational platforms, craft online courses, sell mock tests, handle live classes, and foster communities - all without building from
-- [classroomio/classroomio](https://github.com/classroomio/classroomio) - The Open Source Education Platform. A Simple and Beautiful Alternative to Moodle LMS, EdX, Thinkific and Teachable
 
 ## Vue 
 
