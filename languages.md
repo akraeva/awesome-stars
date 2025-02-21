@@ -92,7 +92,6 @@
 ## Ruby 
 
 - [hexlet-basics/exercises-ruby](https://github.com/hexlet-basics/exercises-ruby) - 
-- [hexlet-basics/hexlet-basics](https://github.com/hexlet-basics/hexlet-basics) - Interactive Programming Courses
 - [akraeva/exercises-ruby](https://github.com/akraeva/exercises-ruby) - 
 - [akraeva/hexler-ruby](https://github.com/akraeva/hexler-ruby) - my code-basics Ruby problem solving
 
@@ -107,6 +106,7 @@
 ## TypeScript 
 
 - [kalvilabs/kalvi](https://github.com/kalvilabs/kalvi) - 📚🏫🚀 Open Source Infrastructure for Online Education. Easily launch educational platforms, craft online courses, sell mock tests, handle live classes, and foster communities - all without building from
+- [hexlet-basics/hexlet-basics](https://github.com/hexlet-basics/hexlet-basics) - Interactive Programming Courses
 
 ## Vue 
 
