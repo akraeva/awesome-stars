@@ -29,6 +29,7 @@
 - [solidity](#solidity)
 - [svelte](#svelte)
 - [twitter](#twitter)
+- [ui](#ui)
 - [web](#web)
 - [website](#website)
 
@@ -195,6 +196,10 @@
 ## twitter 
 
 - [avevlad/russia-it-podcast](https://github.com/avevlad/russia-it-podcast) - Список русскоязычных подкастов на тему информационных технологий
+
+## ui 
+
+- [ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
 
 ## web 
 
