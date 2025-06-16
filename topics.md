@@ -20,6 +20,7 @@
 - [learning](#learning)
 - [open-source](#open-source)
 - [others](#others)
+- [productivity](#productivity)
 - [programming](#programming)
 - [project-management](#project-management)
 - [python](#python)
@@ -158,6 +159,10 @@
 - [akraeva/python_stepik_practice](https://github.com/akraeva/python_stepik_practice) - 
 - [akraeva/stepik_algorithms](https://github.com/akraeva/stepik_algorithms) - Free cours on stepik.org  ( https://stepik.org/course/1547/syllabus )
 - [akraeva/leetcode](https://github.com/akraeva/leetcode) - 
+
+## productivity 
+
+- [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) - A curated list of delightful productivity resources.
 
 ## programming 
 
