@@ -101,7 +101,7 @@
 
 ## TeX 
 
-- [yegor256/pmba](https://github.com/yegor256/pmba) - Project Management Beyond Agile (Lecture Notes), course for BSc students in Innopolis University, 2023
+- [yegor256/pmba](https://github.com/yegor256/pmba) - Project Management Beyond Agile (Lecture Notes), course for BSc students in Innopolis University, presented in 2023
 
 ## TypeScript 
 
