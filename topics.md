@@ -18,6 +18,7 @@
 - [hacktoberfest](#hacktoberfest)
 - [iot](#iot)
 - [learning](#learning)
+- [obsidian-md](#obsidian-md)
 - [open-source](#open-source)
 - [others](#others)
 - [productivity](#productivity)
@@ -125,6 +126,10 @@
 
 - [classroomio/classroomio](https://github.com/classroomio/classroomio) - The Open Source Education Platform. A Simple and Beautiful Alternative to Moodle LMS, EdX, Thinkific and Teachable
 
+## obsidian-md 
+
+- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
+
 ## open-source 
 
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
@@ -139,7 +144,6 @@
 - [msmanek/getting-a-gig-pm-edition](https://github.com/msmanek/getting-a-gig-pm-edition) - Guide for getting a gig in product management as a tech major.
 - [orbit-love/orbit-model](https://github.com/orbit-love/orbit-model) - A framework for building high gravity communities 🪐
 - [fempire/women-tech-speakers-organizers](https://github.com/fempire/women-tech-speakers-organizers) - A list of women tech speakers & organizers. Add yourself or others by submitting a PR! PS if you do add someone, make sure to tell them! :) #fempire
-- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [OpenMindClub/awesome-scholarly-productivity](https://github.com/OpenMindClub/awesome-scholarly-productivity) - 
 - [shahedbd/awesome-project-management](https://github.com/shahedbd/awesome-project-management) - Awesome lists about Project Management interesting and useful topics.
 - [antonarhipov/awesome-apm](https://github.com/antonarhipov/awesome-apm) - A list of awesome APM products (commercial and OSS)
