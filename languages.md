@@ -81,6 +81,10 @@
 
 ## Python 
 
+- [akraeva/python_generation_advanced](https://github.com/akraeva/python_generation_advanced) - My solutions for the Stepik course "Advanced Python for Beginners"
+- [akraeva/algorithms-python-course](https://github.com/akraeva/algorithms-python-course) - Solutions and notes for the “Algorithms in Python — from scratch” course from Stepik. Covers basic algorithms, data structures, recursion, and graph algorithms with practical examples.
+- [akraeva/python-basics-and-applications](https://github.com/akraeva/python-basics-and-applications) - This repository contains my solutions to the exercises from the course Python: Basics and Applications.
+- [akraeva/yandex-handbook-python](https://github.com/akraeva/yandex-handbook-python) - Решения задач: Yandex Хендбук — Основы Python
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [akraeva/itcode_internship](https://github.com/akraeva/itcode_internship) - IT CODE backend course
