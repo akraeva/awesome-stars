@@ -136,6 +136,10 @@
 
 ## others 
 
+- [akraeva/python_generation_advanced](https://github.com/akraeva/python_generation_advanced) - My solutions for the Stepik course "Advanced Python for Beginners"
+- [akraeva/algorithms-python-course](https://github.com/akraeva/algorithms-python-course) - Solutions and notes for the “Algorithms in Python — from scratch” course from Stepik. Covers basic algorithms, data structures, recursion, and graph algorithms with practical examples.
+- [akraeva/python-basics-and-applications](https://github.com/akraeva/python-basics-and-applications) - This repository contains my solutions to the exercises from the course Python: Basics and Applications.
+- [akraeva/yandex-handbook-python](https://github.com/akraeva/yandex-handbook-python) - Решения задач: Yandex Хендбук — Основы Python
 - [avito-tech/playbook](https://github.com/avito-tech/playbook) - AvitoTech team playbook
 - [ProductHired/open-product-management](https://github.com/ProductHired/open-product-management) - A curated list of product management advice for technical people.
 - [scottcolfer/product-management-handbook](https://github.com/scottcolfer/product-management-handbook) - A white label product management handbook for government digital services
