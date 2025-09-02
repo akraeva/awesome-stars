@@ -46,6 +46,7 @@
 
 ## Others 
 
+- [akraeva/procode-advanced-python](https://github.com/akraeva/procode-advanced-python) - Repository with my solutions for the PROcode Advanced Python course (functions, data structures, files, practice tasks).
 - [Hexlet/ru-local-communities](https://github.com/Hexlet/ru-local-communities) - Список русскоязычных it-комьюнити по городам
 - [avito-tech/playbook](https://github.com/avito-tech/playbook) - AvitoTech team playbook
 - [ProductHired/open-product-management](https://github.com/ProductHired/open-product-management) - A curated list of product management advice for technical people.
