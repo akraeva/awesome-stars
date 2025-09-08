@@ -46,7 +46,6 @@
 
 ## Others 
 
-- [akraeva/procode-advanced-python](https://github.com/akraeva/procode-advanced-python) - Repository with my solutions for the PROcode Advanced Python course (functions, data structures, files, practice tasks).
 - [Hexlet/ru-local-communities](https://github.com/Hexlet/ru-local-communities) - Список русскоязычных it-комьюнити по городам
 - [avito-tech/playbook](https://github.com/avito-tech/playbook) - AvitoTech team playbook
 - [ProductHired/open-product-management](https://github.com/ProductHired/open-product-management) - A curated list of product management advice for technical people.
@@ -82,6 +81,7 @@
 
 ## Python 
 
+- [akraeva/procode-advanced-python](https://github.com/akraeva/procode-advanced-python) - Repository with my solutions for the PROcode Advanced Python course (functions, data structures, files, practice tasks).
 - [akraeva/python-deep-dive](https://github.com/akraeva/python-deep-dive) - Solutions to exercises from the ‘Advanced Python’ course, including string manipulation, OOP, iterators, and more.
 - [akraeva/python_generation_advanced](https://github.com/akraeva/python_generation_advanced) - My solutions for the Stepik course "Advanced Python for Beginners"
 - [akraeva/algorithms-python-course](https://github.com/akraeva/algorithms-python-course) - Solutions and notes for the “Algorithms in Python — from scratch” course from Stepik. Covers basic algorithms, data structures, recursion, and graph algorithms with practical examples.
