@@ -35,6 +35,7 @@
 - [ui](#ui)
 - [web](#web)
 - [website](#website)
+- [youtube](#youtube)
 
 ## awesome 
 
@@ -229,6 +230,10 @@
 ## website 
 
 - [shikha-16/Women-in-Technology](https://github.com/shikha-16/Women-in-Technology) - A collection of resources for women in tech, consisting of - courses, learning guides, amazing sites and repos, blogs, programs and events. scholarships, etc.
+
+## youtube 
+
+- [avevlad/russia-it-podcast](https://github.com/avevlad/russia-it-podcast) - Список русскоязычных подкастов на тему информационных технологий
 
 
 ## License
