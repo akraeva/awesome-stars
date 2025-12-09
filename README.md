@@ -143,6 +143,7 @@
 
 ## others 
 
+- [akraeva/Learning-Python-Together](https://github.com/akraeva/Learning-Python-Together) - Python course on Stepik by Arthur Kuznetsov
 - [akraeva/procode-advanced-python](https://github.com/akraeva/procode-advanced-python) - Repository with my solutions for the PROcode Advanced Python course (functions, data structures, files, practice tasks).
 - [akraeva/python-deep-dive](https://github.com/akraeva/python-deep-dive) - Solutions to exercises from the ‘Advanced Python’ course, including string manipulation, OOP, iterators, and more.
 - [akraeva/python_generation_advanced](https://github.com/akraeva/python_generation_advanced) - My solutions for the Stepik course "Advanced Python for Beginners"
