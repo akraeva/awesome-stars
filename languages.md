@@ -39,7 +39,6 @@
 - [OpenSourceUniversity/platform](https://github.com/OpenSourceUniversity/platform) - Decentralized Education 4.0 platform
 - [studentinsights/studentinsights](https://github.com/studentinsights/studentinsights) - We work within school communities to make open, secure, student-centered data systems.  Say hello@studentinsights.org!
 - [shikha-16/Women-in-Technology](https://github.com/shikha-16/Women-in-Technology) - A collection of resources for women in tech, consisting of - courses, learning guides, amazing sites and repos, blogs, programs and events. scholarships, etc.
-- [getmentor/getmentor.dev](https://github.com/getmentor/getmentor.dev) - Getmentor.dev rewritten on NextJS
 - [hexlet-basics/exercises-javascript](https://github.com/hexlet-basics/exercises-javascript) - Free Javascript courses
 - [akraeva/exercises-javascript](https://github.com/akraeva/exercises-javascript) - JavaScript
 - [akraeva/hexlet-js](https://github.com/akraeva/hexlet-js) - my code-basics JS problem solving
@@ -113,6 +112,7 @@
 ## TypeScript 
 
 - [kalvilabs/kalvi](https://github.com/kalvilabs/kalvi) - 📚🏫🚀 Open Source Infrastructure for Online Education. Easily launch educational platforms, craft online courses, sell mock tests, handle live classes, and foster communities - all without building from
+- [getmentor/getmentor.dev](https://github.com/getmentor/getmentor.dev) - Getmentor.dev rewritten on NextJS
 - [hexlet-basics/hexlet-basics](https://github.com/hexlet-basics/hexlet-basics) - Interactive Programming Courses
 
 ## Vue 
