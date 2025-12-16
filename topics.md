@@ -167,11 +167,10 @@
 - [getmentor/getmentor.dev](https://github.com/getmentor/getmentor.dev) - Getmentor.dev rewritten on NextJS
 - [akraeva/awesome-stars](https://github.com/akraeva/awesome-stars) - A curated list of my GitHub stars!
 - [akraeva/akraeva](https://github.com/akraeva/akraeva) - Anna Kraeva Profile
-- [akraeva/hexlet-html](https://github.com/akraeva/hexlet-html) - learning html & css
 - [akraeva/exercises-ruby](https://github.com/akraeva/exercises-ruby) - 
-- [akraeva/hexler-ruby](https://github.com/akraeva/hexler-ruby) - my code-basics Ruby problem solving
+- [akraeva/Learning-ruby](https://github.com/akraeva/Learning-ruby) - Ruby courses problem solving
 - [akraeva/exercises-javascript](https://github.com/akraeva/exercises-javascript) - JavaScript
-- [akraeva/hexlet-js](https://github.com/akraeva/hexlet-js) - my code-basics JS problem solving
+- [akraeva/Learning-JS](https://github.com/akraeva/Learning-JS) - JS courses problem solving
 - [akraeva/itcode_internship](https://github.com/akraeva/itcode_internship) - IT CODE backend course
 - [akraeva/python_stepik](https://github.com/akraeva/python_stepik) - 
 - [akraeva/python_stepik_practice](https://github.com/akraeva/python_stepik_practice) - 
