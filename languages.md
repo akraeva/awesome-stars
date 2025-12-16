@@ -31,7 +31,6 @@
 ## HTML 
 
 - [unchase/awesome-russian-it](https://github.com/unchase/awesome-russian-it) - :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ - https://awesomeit.ru
-- [akraeva/hexlet-html](https://github.com/akraeva/hexlet-html) - learning html & css
 
 ## JavaScript 
 
@@ -41,7 +40,7 @@
 - [shikha-16/Women-in-Technology](https://github.com/shikha-16/Women-in-Technology) - A collection of resources for women in tech, consisting of - courses, learning guides, amazing sites and repos, blogs, programs and events. scholarships, etc.
 - [hexlet-basics/exercises-javascript](https://github.com/hexlet-basics/exercises-javascript) - Free Javascript courses
 - [akraeva/exercises-javascript](https://github.com/akraeva/exercises-javascript) - JavaScript
-- [akraeva/hexlet-js](https://github.com/akraeva/hexlet-js) - my code-basics JS problem solving
+- [akraeva/Learning-JS](https://github.com/akraeva/Learning-JS) - JS courses problem solving
 
 ## Others 
 
@@ -99,7 +98,7 @@
 
 - [hexlet-basics/exercises-ruby](https://github.com/hexlet-basics/exercises-ruby) - 
 - [akraeva/exercises-ruby](https://github.com/akraeva/exercises-ruby) - 
-- [akraeva/hexler-ruby](https://github.com/akraeva/hexler-ruby) - my code-basics Ruby problem solving
+- [akraeva/Learning-ruby](https://github.com/akraeva/Learning-ruby) - Ruby courses problem solving
 
 ## Svelte 
 
