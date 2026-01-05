@@ -15,6 +15,7 @@
 - [education](#education)
 - [font](#font)
 - [gamedev](#gamedev)
+- [github](#github)
 - [hacktoberfest](#hacktoberfest)
 - [iot](#iot)
 - [learning](#learning)
@@ -22,6 +23,7 @@
 - [obsidian-md](#obsidian-md)
 - [open-source](#open-source)
 - [others](#others)
+- [php](#php)
 - [productivity](#productivity)
 - [programming](#programming)
 - [project-management](#project-management)
@@ -110,8 +112,13 @@
 
 - [unchase/awesome-russian-it](https://github.com/unchase/awesome-russian-it) - :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ - https://awesomeit.ru
 
+## github 
+
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+
 ## hacktoberfest 
 
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [Hexlet/ru-local-communities](https://github.com/Hexlet/ru-local-communities) - Список русскоязычных it-комьюнити по городам
 - [tlbootcamp/tlroadmap](https://github.com/tlbootcamp/tlroadmap) - Тимлид – это ❄️, потому что в каждой компании он уникален и неповторим.
 - [learningequality/kolibri](https://github.com/learningequality/kolibri) - Kolibri Learning Platform: the offline app for universal education
@@ -176,6 +183,10 @@
 - [akraeva/python_stepik_practice](https://github.com/akraeva/python_stepik_practice) - 
 - [akraeva/stepik_algorithms](https://github.com/akraeva/stepik_algorithms) - Free cours on stepik.org  ( https://stepik.org/course/1547/syllabus )
 - [akraeva/leetcode](https://github.com/akraeva/leetcode) - 
+
+## php 
+
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
 ## productivity 
 
