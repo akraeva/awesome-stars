@@ -88,7 +88,7 @@
 - [akraeva/python-basics-and-applications](https://github.com/akraeva/python-basics-and-applications) - This repository contains my solutions to the exercises from the course Python: Basics and Applications.
 - [akraeva/yandex-handbook-python](https://github.com/akraeva/yandex-handbook-python) - Решения задач: Yandex Хендбук — Основы Python
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 - [akraeva/itcode_internship](https://github.com/akraeva/itcode_internship) - IT CODE backend course
 - [akraeva/python_stepik](https://github.com/akraeva/python_stepik) - 
 - [akraeva/python_stepik_practice](https://github.com/akraeva/python_stepik_practice) - 
