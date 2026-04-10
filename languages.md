@@ -25,7 +25,6 @@
 ## CSS 
 
 - [orbit-love/orbit-model](https://github.com/orbit-love/orbit-model) - A framework for building high gravity communities 🪐
-- [learningequality/kolibri](https://github.com/learningequality/kolibri) - Kolibri Learning Platform: the offline app for universal education
 - [dend/awesome-product-management](https://github.com/dend/awesome-product-management) - 🚀 A curated list of awesome resources for product/program managers to learn and grow.
 
 ## HTML 
@@ -87,6 +86,7 @@
 - [akraeva/algorithms-python-course](https://github.com/akraeva/algorithms-python-course) - Solutions and notes for the “Algorithms in Python — from scratch” course from Stepik. Covers basic algorithms, data structures, recursion, and graph algorithms with practical examples.
 - [akraeva/python-basics-and-applications](https://github.com/akraeva/python-basics-and-applications) - This repository contains my solutions to the exercises from the course Python: Basics and Applications.
 - [akraeva/yandex-handbook-python](https://github.com/akraeva/yandex-handbook-python) - Решения задач: Yandex Хендбук — Основы Python
+- [learningequality/kolibri](https://github.com/learningequality/kolibri) - Kolibri Learning Platform: the offline app for universal education
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [akraeva/itcode_internship](https://github.com/akraeva/itcode_internship) - IT CODE backend course
