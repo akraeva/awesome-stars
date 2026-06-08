@@ -19,6 +19,7 @@
 - [hacktoberfest](#hacktoberfest)
 - [iot](#iot)
 - [learning](#learning)
+- [markdown](#markdown)
 - [obsidian](#obsidian)
 - [obsidian-md](#obsidian-md)
 - [open-source](#open-source)
@@ -135,6 +136,10 @@
 ## learning 
 
 - [classroomio/classroomio](https://github.com/classroomio/classroomio) - The Open Source Education Platform for Companies. A Simple and Beautiful Alternative to Moodle LMS, EdX, Thinkific and Teachable
+
+## markdown 
+
+- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 
 ## obsidian 
 
