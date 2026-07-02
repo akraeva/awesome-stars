@@ -18,6 +18,7 @@
 - [github](#github)
 - [hacktoberfest](#hacktoberfest)
 - [iot](#iot)
+- [learn-to-code](#learn-to-code)
 - [learning](#learning)
 - [markdown](#markdown)
 - [obsidian](#obsidian)
@@ -132,6 +133,11 @@
 ## iot 
 
 - [ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
+
+## learn-to-code 
+
+- [hexlet-basics/exercises-javascript](https://github.com/hexlet-basics/exercises-javascript) - Free Javascript courses
+- [hexlet-basics/hexlet-basics](https://github.com/hexlet-basics/hexlet-basics) - Interactive Programming Courses
 
 ## learning 
 
