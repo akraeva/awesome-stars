@@ -87,7 +87,7 @@
 - [akraeva/yandex-handbook-python](https://github.com/akraeva/yandex-handbook-python) - Решения задач: Yandex Хендбук — Основы Python
 - [learningequality/kolibri](https://github.com/learningequality/kolibri) - Kolibri Learning Platform: the offline app for universal education
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [akraeva/itcode_internship](https://github.com/akraeva/itcode_internship) - IT CODE backend course
 - [akraeva/python_stepik](https://github.com/akraeva/python_stepik) - 
 - [akraeva/python_stepik_practice](https://github.com/akraeva/python_stepik_practice) - 
