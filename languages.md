@@ -7,6 +7,7 @@
 
 - [C#](#c#)
 - [CSS](#css)
+- [Go](#go)
 - [HTML](#html)
 - [JavaScript](#javascript)
 - [Others](#others)
@@ -25,6 +26,10 @@
 
 - [orbit-love/orbit-model](https://github.com/orbit-love/orbit-model) - A framework for building high gravity communities 🪐
 - [dend/awesome-product-management](https://github.com/dend/awesome-product-management) - 🚀 A curated list of awesome resources for product/program managers to learn and grow.
+
+## Go 
+
+- [hexlet-basics/hexlet-basics](https://github.com/hexlet-basics/hexlet-basics) - Interactive Programming Courses
 
 ## HTML 
 
@@ -109,7 +114,6 @@
 - [kalvilabs/kalvi](https://github.com/kalvilabs/kalvi) - 📚🏫🚀 Open Source Infrastructure for Online Education. Easily launch educational platforms, craft online courses, sell mock tests, handle live classes, and foster communities - all without building from
 - [classroomio/classroomio](https://github.com/classroomio/classroomio) - ClassroomIO is an  Intelligent Customer Training Platform that helps SaaS companies use education to grow their business.
 - [getmentor/getmentor.dev](https://github.com/getmentor/getmentor.dev) - Getmentor.dev rewritten on NextJS
-- [hexlet-basics/hexlet-basics](https://github.com/hexlet-basics/hexlet-basics) - Interactive Programming Courses
 
 ## Vue 
 
