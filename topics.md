@@ -18,6 +18,7 @@
 - [github](#github)
 - [hacktoberfest](#hacktoberfest)
 - [iot](#iot)
+- [knowledge-graph](#knowledge-graph)
 - [learn-to-code](#learn-to-code)
 - [learning](#learning)
 - [markdown](#markdown)
@@ -134,6 +135,10 @@
 ## iot 
 
 - [ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
+
+## knowledge-graph 
+
+- [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space
 
 ## learn-to-code 
 
