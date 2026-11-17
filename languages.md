@@ -38,7 +38,7 @@
 ## JavaScript 
 
 - [espetey/pminterviewquestion](https://github.com/espetey/pminterviewquestion) - A web app to generate a practice Product Manager interview.
-- [OpenSourceUniversity/platform](https://github.com/OpenSourceUniversity/platform) - Decentralized Education 4.0 platform
+- [OpenSourceUniversity/platform](https://github.com/OpenSourceUniversity/platform) - Archived 2017-2020 OS.University platform. The project continues at opensourceuni.org (Open Source Diplomas).
 - [studentinsights/studentinsights](https://github.com/studentinsights/studentinsights) - We work within school communities to make open, secure, student-centered data systems.  Say hello@studentinsights.org!
 - [shikha-16/Women-in-Technology](https://github.com/shikha-16/Women-in-Technology) - A collection of resources for women in tech, consisting of - courses, learning guides, amazing sites and repos, blogs, programs and events. scholarships, etc.
 - [hexlet-basics/exercises-javascript](https://github.com/hexlet-basics/exercises-javascript) - Free Javascript courses
