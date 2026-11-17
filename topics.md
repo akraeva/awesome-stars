@@ -78,7 +78,7 @@
 
 ## blockchain 
 
-- [OpenSourceUniversity/platform](https://github.com/OpenSourceUniversity/platform) - Decentralized Education 4.0 platform
+- [OpenSourceUniversity/platform](https://github.com/OpenSourceUniversity/platform) - Archived 2017-2020 OS.University platform. The project continues at opensourceuni.org (Open Source Diplomas).
 
 ## computer-science 
 
@@ -100,7 +100,7 @@
 
 ## education 
 
-- [OpenSourceUniversity/platform](https://github.com/OpenSourceUniversity/platform) - Decentralized Education 4.0 platform
+- [OpenSourceUniversity/platform](https://github.com/OpenSourceUniversity/platform) - Archived 2017-2020 OS.University platform. The project continues at opensourceuni.org (Open Source Diplomas).
 - [kalvilabs/kalvi](https://github.com/kalvilabs/kalvi) - 📚🏫🚀 Open Source Infrastructure for Online Education. Easily launch educational platforms, craft online courses, sell mock tests, handle live classes, and foster communities - all without building from
 - [studentinsights/studentinsights](https://github.com/studentinsights/studentinsights) - We work within school communities to make open, secure, student-centered data systems.  Say hello@studentinsights.org!
 - [elmsln/elmsln](https://github.com/elmsln/elmsln) - ELMS - create and sustain innovation in education. Dream with us!
@@ -224,7 +224,7 @@
 
 ## react 
 
-- [OpenSourceUniversity/platform](https://github.com/OpenSourceUniversity/platform) - Decentralized Education 4.0 platform
+- [OpenSourceUniversity/platform](https://github.com/OpenSourceUniversity/platform) - Archived 2017-2020 OS.University platform. The project continues at opensourceuni.org (Open Source Diplomas).
 
 ## ruby 
 
@@ -237,7 +237,7 @@
 
 ## solidity 
 
-- [OpenSourceUniversity/platform](https://github.com/OpenSourceUniversity/platform) - Decentralized Education 4.0 platform
+- [OpenSourceUniversity/platform](https://github.com/OpenSourceUniversity/platform) - Archived 2017-2020 OS.University platform. The project continues at opensourceuni.org (Open Source Diplomas).
 
 ## svelte 
 
