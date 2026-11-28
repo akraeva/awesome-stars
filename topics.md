@@ -186,7 +186,6 @@
 - [antonarhipov/awesome-apm](https://github.com/antonarhipov/awesome-apm) - A list of awesome APM products (commercial and OSS)
 - [dehenne/awesome-visibility](https://github.com/dehenne/awesome-visibility) - Curated list to achieve visibility for your product
 - [hugo53/awesome-ProductManager](https://github.com/hugo53/awesome-ProductManager) - A curated list of awesome book, tool and other resource for Product Managers. Inspired by 'awesome-' repos.
-- [Yandex-Practicum/algorithms-theory-examples](https://github.com/Yandex-Practicum/algorithms-theory-examples) - Примеры кода на разных языках для курса Алгоритмы для разработчиков.
 - [getmentor/getmentor.dev](https://github.com/getmentor/getmentor.dev) - Getmentor.dev rewritten on NextJS
 - [akraeva/awesome-stars](https://github.com/akraeva/awesome-stars) - A curated list of my GitHub stars!
 - [akraeva/akraeva](https://github.com/akraeva/akraeva) - Anna Kraeva Profile
