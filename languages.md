@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [C#](#c#)
 - [CSS](#css)
 - [Go](#go)
 - [HTML](#html)
@@ -17,10 +16,6 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vue](#vue)
-
-## C# # 
-
-- [Yandex-Practicum/algorithms-theory-examples](https://github.com/Yandex-Practicum/algorithms-theory-examples) - Примеры кода на разных языках для курса Алгоритмы для разработчиков.
 
 ## CSS 
 
